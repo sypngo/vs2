@@ -1,0 +1,11 @@
+.video-Slider{
+  background-color: black;
+  margin-top: 100px;
+}
+.video-Slider .item{
+  margin: 100px 20px !important;
+  color: white;
+}
+.video-Slider .item .video-container iframe{
+  width: 100%;
+}
